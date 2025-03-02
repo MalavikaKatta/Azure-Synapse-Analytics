@@ -1,0 +1,7 @@
+selected resource name:		Load Product Data
+selected resource type:		pipeline
+workspace name:			synapseysuv7ln
+workspace location:		eastus2
+subscription id:		714e087e-4ca0-4a74-ac1a-698abc521e92
+data flow session id:		93ca16d8-6e24-4de9-a954-34ead9616bc6
+time of download (UTC):		Sun, 02 Mar 2025 17:54:14 GMT

@@ -1,0 +1,24 @@
+{
+    "now": "2025-03-02T17:54:14.167Z",
+    "perfNow": 75005715.0999999,
+    "diagnosticCorrelation": "61e68259-9be5-4571-aa1b-ce91e8523cc1",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "a365",
+        "buildVersion": "25.0211.12",
+        "environmentType": 9,
+        "resourceName": "synapseysuv7ln",
+        "resourceRegion": "eastus2",
+        "resourceGroup": "dp203-ysuv7ln",
+        "subscriptionId": "714e087e-4ca0-4a74-ac1a-698abc521e92",
+        "sessionId": "W+vOMKfht64P9hE/0T5gpm",
+        "operationId": "nSVAB",
+        "gitType": "live",
+        "loggingKey": "0eb0659b-994c-4a21-9855-afe1deddc46e"
+    },
+    "additionalInfo": {
+        "selectedResource": "Load Product Data",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "93ca16d8-6e24-4de9-a954-34ead9616bc6"
+    }
+}
