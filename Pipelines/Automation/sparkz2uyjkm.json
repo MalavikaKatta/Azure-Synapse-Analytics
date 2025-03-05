@@ -1,0 +1,22 @@
+{
+    "name": "sparkz2uyjkm",
+    "location": "centralus",
+    "properties": {
+        "autoPause": {
+            "enabled": true,
+            "delayInMinutes": 15
+        },
+        "autoScale": {
+            "enabled": true,
+            "maxNodeCount": 4,
+            "minNodeCount": 3
+        },
+        "nodeCount": 0,
+        "nodeSize": "Small",
+        "nodeSizeFamily": "MemoryOptimized",
+        "sparkVersion": "3.4",
+        "isComputeIsolationEnabled": false,
+        "sessionLevelPackagesEnabled": false,
+        "annotations": []
+    }
+}

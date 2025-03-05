@@ -1,0 +1,23 @@
+{
+    "now": "2025-03-04T17:10:43.661Z",
+    "perfNow": 4262031,
+    "diagnosticCorrelation": "6763a4d0-9041-4a51-b8e8-c892a49cd82d",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "a365",
+        "buildVersion": "25.0211.12",
+        "environmentType": 9,
+        "resourceName": "synapsez2uyjkm",
+        "resourceRegion": "centralus",
+        "resourceGroup": "dp203-z2uyjkm",
+        "subscriptionId": "714e087e-4ca0-4a74-ac1a-698abc521e92",
+        "sessionId": "gHB7tnffgQhX5o+gfriaVP",
+        "operationId": "<AcI_",
+        "gitType": "live",
+        "loggingKey": "b017521b-f7fc-4a8c-860b-560735787af5"
+    },
+    "additionalInfo": {
+        "selectedResource": "Transform Sales Data",
+        "selectedResourceType": "pipeline"
+    }
+}

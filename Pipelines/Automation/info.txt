@@ -1,0 +1,6 @@
+selected resource name:		Transform Sales Data
+selected resource type:		pipeline
+workspace name:			synapsez2uyjkm
+workspace location:		centralus
+subscription id:		714e087e-4ca0-4a74-ac1a-698abc521e92
+time of download (UTC):		Tue, 04 Mar 2025 17:10:43 GMT
