@@ -1,0 +1,1 @@
+Bulk load data conversion error (type mismatch or invalid character for the specified codepage) for row starting at byte offset 2261, column 1 (GeographyKey). Underlying data description: /data/Customer.csv.
